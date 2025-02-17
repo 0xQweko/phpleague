@@ -1,7 +1,7 @@
 {
     "name": "0xqweko/phpleague",
     "description": "This package should not be used; it is for testing purposes only.",
-    "keywords": ["log","logging"],
+    "keywords": ["league"],
     "homepage": "https://github.com/0xQweko/phpleague",
     "license": "MIT",
     "authors": [
